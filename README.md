@@ -1,6 +1,6 @@
-#Dasmoto's Arts & Crafts
+# Dasmoto's Arts & Crafts
 
-This is the website for the fictional arts and craft's store called Dasmoto's Arts & Crafts.
-It is a project from the Codecademy's Full-Stack Engineering course.
+This is the project of the fictional arts and craft's store called Dasmoto's Arts & Crafts, from the Codecademy's Full-Stack Engineering course.
 
-This project is inteded to practice basic html and css without having step by step guide.
+# Overview
+This is the first project to practice basic HTML and CSS. In this project, I have built a simple website for a fictional arts and crafts store using HMLT5 and CSS3. I was provided with images and design spec for styling the page.
